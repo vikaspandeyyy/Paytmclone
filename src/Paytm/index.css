@@ -1,0 +1,57 @@
+.card{
+    border: none;
+}
+
+.card-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.cardImg{
+    width: 180px;
+    height: 180px;
+}
+
+.slickCard{
+    background-color: #4E6DCB;
+}
+
+.bi{
+    font-size: 20px;
+}
+
+.left_btn{
+    background-color: #4E6DCB;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 120px;
+}
+
+.right_btn{
+    background-color: #4E6DCB;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    float: right;
+    margin-right: -32px;
+    margin-top: -187px; 
+}
+
+.card-image{
+    width: 150px;
+}
+
+.cardText{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.bi-apple{
+    color: #ffffff;
+    font-size: 40px;
+    margin-right: 3px;
+}
